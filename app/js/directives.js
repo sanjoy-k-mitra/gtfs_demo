@@ -4,7 +4,7 @@
 app.directive('map', function(){
     return {
         restrict: 'E',
-        template: '<div class="map-canvas"></div>',
+        templateUrl: 'partials/map.html',
         controller: 'MapController',
         controllerAs: 'mapCtrl'
     }

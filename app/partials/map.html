@@ -1,0 +1,19 @@
+<div class="row full-height">
+    <div class="col-md-3">
+        <div class="input-group">
+            <div class="input-group-addon">Select Route :</div>
+            <select ng-model="currentRouteId" class="form-control" ng-change="routeSelectionChanged()">
+                <option ng-repeat="route in routes" value="{{route.route_id}}">{{route.route_short_name + " " +route.route_long_name}}</option>
+            </select>
+        </div>
+        <div class="input-group">
+            <div class="input-group-addon">Select Trip :</div>
+            <select ng-model="currentTripId" class="form-control">
+                <option ng-repeat="trip in trips|filter:{route_id:currentRouteId}" value="{{trip.trip_id}}">{{trip.trip_id}}</option>
+            </select>
+        </div>
+    </div>
+    <div class="col-md-9 full-height">
+        <div class="map-canvas"></div>
+    </div>
+</div>

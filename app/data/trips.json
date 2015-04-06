@@ -1,0 +1,1161 @@
+[
+    {
+        "route_id": "70",
+        "service_id": "888A2103",
+        "trip_id": "42228A888B2103",
+        "trip_headsign": "Flagstaff Mall",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "0",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "70",
+        "service_id": "71A2562",
+        "trip_id": "844A71B2562",
+        "trip_headsign": "Downtown Transfer Center",
+        "direction_id": "1",
+        "block_id": "",
+        "shape_id": "1",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "74",
+        "service_id": "888A2103",
+        "trip_id": "42234A888B2103",
+        "direction_id": "",
+        "block_id": "",
+        "shape_id": "2",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "1371",
+        "service_id": "1411A2235",
+        "trip_id": "88047A1411B2235",
+        "direction_id": "",
+        "block_id": "",
+        "shape_id": "3",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "71",
+        "service_id": "71A2562",
+        "trip_id": "848A71B2562",
+        "trip_headsign": "Downtown Transfer Center",
+        "direction_id": "1",
+        "block_id": "",
+        "shape_id": "4",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "74",
+        "service_id": "70A2562",
+        "trip_id": "835A70B2562",
+        "direction_id": "",
+        "block_id": "",
+        "shape_id": "2",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "69",
+        "service_id": "888A2103",
+        "trip_id": "42227A888B2103",
+        "trip_headsign": "Downtown Transfer Center",
+        "direction_id": "1",
+        "block_id": "",
+        "shape_id": "5",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "73",
+        "service_id": "888A2103",
+        "trip_id": "42233A888B2103",
+        "trip_headsign": "Cheshire",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "6",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "69",
+        "service_id": "70A2562",
+        "trip_id": "825A70B2562",
+        "trip_headsign": "Flagstaff Mall",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "7",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "69",
+        "service_id": "888A2103",
+        "trip_id": "42226A888B2103",
+        "trip_headsign": "Flagstaff Mall",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "7",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "1370",
+        "service_id": "1080A2563",
+        "trip_id": "57620A1080B2563",
+        "direction_id": "",
+        "block_id": "",
+        "shape_id": "8",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "72",
+        "service_id": "888A2103",
+        "trip_id": "42230A888B2103",
+        "direction_id": "",
+        "block_id": "",
+        "shape_id": "9",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "70",
+        "service_id": "71A2562",
+        "trip_id": "842A71B2562",
+        "trip_headsign": "Flagstaff Mall",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "10",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "74",
+        "service_id": "71A2562",
+        "trip_id": "854A71B2562",
+        "direction_id": "",
+        "block_id": "",
+        "shape_id": "2",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "72",
+        "service_id": "1210A2564",
+        "trip_id": "63064A1210B2564",
+        "direction_id": "",
+        "block_id": "",
+        "shape_id": "9",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "1370",
+        "service_id": "1083A2563",
+        "trip_id": "88044A1083B2563",
+        "direction_id": "",
+        "block_id": "",
+        "shape_id": "8",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "612",
+        "service_id": "1080A2563",
+        "trip_id": "57820A1080B2563",
+        "direction_id": "",
+        "block_id": "",
+        "shape_id": "11",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "69",
+        "service_id": "70A2562",
+        "trip_id": "826A70B2562",
+        "trip_headsign": "Downtown Transfer Center",
+        "direction_id": "1",
+        "block_id": "",
+        "shape_id": "5",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "72",
+        "service_id": "888A2103",
+        "trip_id": "42229A888B2103",
+        "direction_id": "",
+        "block_id": "",
+        "shape_id": "9",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "70",
+        "service_id": "70A2562",
+        "trip_id": "828A70B2562",
+        "trip_headsign": "Downtown Transfer Center",
+        "direction_id": "1",
+        "block_id": "",
+        "shape_id": "1",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "73",
+        "service_id": "70A2562",
+        "trip_id": "834A70B2562",
+        "trip_headsign": "Downtown Transfer Center",
+        "direction_id": "1",
+        "block_id": "",
+        "shape_id": "12",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "69",
+        "service_id": "71A2562",
+        "trip_id": "840A71B2562",
+        "trip_headsign": "Downtown Transfer Center",
+        "direction_id": "1",
+        "block_id": "",
+        "shape_id": "5",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "72",
+        "service_id": "1083A2563",
+        "trip_id": "849A1083B2563",
+        "direction_id": "",
+        "block_id": "",
+        "shape_id": "9",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "72",
+        "service_id": "1209A2564",
+        "trip_id": "831A1209B2564",
+        "direction_id": "",
+        "block_id": "",
+        "shape_id": "9",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "70",
+        "service_id": "70A2562",
+        "trip_id": "827A70B2562",
+        "trip_headsign": "Flagstaff Mall",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "10",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "71",
+        "service_id": "70A2562",
+        "trip_id": "830A70B2562",
+        "trip_headsign": "Downtown Transfer Center",
+        "direction_id": "1",
+        "block_id": "",
+        "shape_id": "4",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "71",
+        "service_id": "70A2562",
+        "trip_id": "829A70B2562",
+        "trip_headsign": "Flagstaff Mall",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "13",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "71",
+        "service_id": "888A2103",
+        "trip_id": "42232A888B2103",
+        "trip_headsign": "Flagstaff Mall",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "13",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "1371",
+        "service_id": "1211A2235",
+        "trip_id": "63065A1211B2235",
+        "direction_id": "",
+        "block_id": "",
+        "shape_id": "3",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "69",
+        "service_id": "71A2562",
+        "trip_id": "838A71B2562",
+        "trip_headsign": "Flagstaff Mall",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "7",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "73",
+        "service_id": "70A2562",
+        "trip_id": "833A70B2562",
+        "trip_headsign": "Cheshire",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "6",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "71",
+        "service_id": "71A2562",
+        "trip_id": "846A71B2562",
+        "trip_headsign": "Flagstaff Mall",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "13",
+        "trip_bikes_allowed": "2",
+        "bikes_allowed": "2"
+    },
+    {
+        "route_id": "612",
+        "service_id": "1083A2563",
+        "trip_id": "i0-frequency_id6020-57823A1083B2563",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6020-57823A1083B2563-Vehicle-1",
+        "shape_id": "14",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "1083A2563",
+        "trip_id": "i1-frequency_id6020-57823A1083B2563",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6020-57823A1083B2563-Vehicle-1",
+        "shape_id": "14",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "1083A2563",
+        "trip_id": "i2-frequency_id6020-57823A1083B2563",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6020-57823A1083B2563-Vehicle-1",
+        "shape_id": "14",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "1083A2563",
+        "trip_id": "i3-frequency_id6020-57823A1083B2563",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6020-57823A1083B2563-Vehicle-1",
+        "shape_id": "14",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "1083A2563",
+        "trip_id": "i4-frequency_id6020-57823A1083B2563",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6020-57823A1083B2563-Vehicle-1",
+        "shape_id": "14",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "1083A2563",
+        "trip_id": "i5-frequency_id6020-57823A1083B2563",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6020-57823A1083B2563-Vehicle-1",
+        "shape_id": "14",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "1083A2563",
+        "trip_id": "i6-frequency_id6020-57823A1083B2563",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6020-57823A1083B2563-Vehicle-1",
+        "shape_id": "14",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "1083A2563",
+        "trip_id": "i7-frequency_id6020-57823A1083B2563",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6020-57823A1083B2563-Vehicle-1",
+        "shape_id": "14",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "1083A2563",
+        "trip_id": "i8-frequency_id6020-57823A1083B2563",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6020-57823A1083B2563-Vehicle-1",
+        "shape_id": "14",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "1083A2563",
+        "trip_id": "i9-frequency_id6020-57823A1083B2563",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6020-57823A1083B2563-Vehicle-1",
+        "shape_id": "14",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "1083A2563",
+        "trip_id": "i10-frequency_id6020-57823A1083B2563",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6020-57823A1083B2563-Vehicle-1",
+        "shape_id": "14",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "1083A2563",
+        "trip_id": "i11-frequency_id6020-57823A1083B2563",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6020-57823A1083B2563-Vehicle-1",
+        "shape_id": "14",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "1083A2563",
+        "trip_id": "i12-frequency_id6020-57823A1083B2563",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6020-57823A1083B2563-Vehicle-1",
+        "shape_id": "14",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "1083A2563",
+        "trip_id": "i13-frequency_id6020-57823A1083B2563",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6020-57823A1083B2563-Vehicle-1",
+        "shape_id": "14",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "1083A2563",
+        "trip_id": "i14-frequency_id6020-57823A1083B2563",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6020-57823A1083B2563-Vehicle-1",
+        "shape_id": "14",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "1083A2563",
+        "trip_id": "i15-frequency_id6020-57823A1083B2563",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6020-57823A1083B2563-Vehicle-1",
+        "shape_id": "14",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "1083A2563",
+        "trip_id": "i16-frequency_id6020-57823A1083B2563",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6020-57823A1083B2563-Vehicle-1",
+        "shape_id": "14",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "1083A2563",
+        "trip_id": "i17-frequency_id6020-57823A1083B2563",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6020-57823A1083B2563-Vehicle-1",
+        "shape_id": "14",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "1083A2563",
+        "trip_id": "i18-frequency_id6020-57823A1083B2563",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6020-57823A1083B2563-Vehicle-1",
+        "shape_id": "14",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "1083A2563",
+        "trip_id": "i19-frequency_id6020-57823A1083B2563",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6020-57823A1083B2563-Vehicle-1",
+        "shape_id": "14",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "1083A2563",
+        "trip_id": "i20-frequency_id6020-57823A1083B2563",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6020-57823A1083B2563-Vehicle-1",
+        "shape_id": "14",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "1083A2563",
+        "trip_id": "i21-frequency_id6020-57823A1083B2563",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6020-57823A1083B2563-Vehicle-1",
+        "shape_id": "14",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "1083A2563",
+        "trip_id": "i22-frequency_id6020-57823A1083B2563",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6020-57823A1083B2563-Vehicle-1",
+        "shape_id": "14",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "1083A2563",
+        "trip_id": "i23-frequency_id6020-57823A1083B2563",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6020-57823A1083B2563-Vehicle-1",
+        "shape_id": "14",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "1083A2563",
+        "trip_id": "i24-frequency_id6020-57823A1083B2563",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6020-57823A1083B2563-Vehicle-1",
+        "shape_id": "14",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "1083A2563",
+        "trip_id": "i25-frequency_id6020-57823A1083B2563",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6020-57823A1083B2563-Vehicle-1",
+        "shape_id": "14",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i0-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i1-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i2-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i3-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i4-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i5-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i6-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i7-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i8-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i9-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i10-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i11-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i12-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i13-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i14-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i15-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i16-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i17-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i18-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i19-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i20-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i21-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i22-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i23-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i24-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i25-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i26-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i27-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i28-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i29-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i30-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i31-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i32-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i33-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i34-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i35-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i36-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i37-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i38-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i39-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i40-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i41-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i42-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i43-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i44-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i45-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i46-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i47-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i48-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i49-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i50-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i51-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i52-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i53-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i54-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-1",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    },
+    {
+        "route_id": "612",
+        "service_id": "888A2103",
+        "trip_id": "i55-frequency_id6370-42235A888B2103",
+        "direction_id": "",
+        "block_id": "BLOCKfrequency_id6370-42235A888B2103-Vehicle-2",
+        "shape_id": "15",
+        "trip_bikes_allowed": "0",
+        "bikes_allowed": "0"
+    }
+]

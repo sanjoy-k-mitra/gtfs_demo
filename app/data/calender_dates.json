@@ -1,0 +1,192 @@
+[
+    {
+        "service_id": "70A2562",
+        "date": "20141231",
+        "exception_type": "2"
+    },
+    {
+        "service_id": "1211A2235",
+        "date": "20150319",
+        "exception_type": "1"
+    },
+    {
+        "service_id": "71A2562",
+        "date": "20141127",
+        "exception_type": "2"
+    },
+    {
+        "service_id": "1083A2563",
+        "date": "20141127",
+        "exception_type": "2"
+    },
+    {
+        "service_id": "1080A2563",
+        "date": "20150101",
+        "exception_type": "2"
+    },
+    {
+        "service_id": "1209A2564",
+        "date": "20141127",
+        "exception_type": "2"
+    },
+    {
+        "service_id": "1080A2563",
+        "date": "20141127",
+        "exception_type": "2"
+    },
+    {
+        "service_id": "1210A2564",
+        "date": "20150704",
+        "exception_type": "1"
+    },
+    {
+        "service_id": "1209A2564",
+        "date": "20150101",
+        "exception_type": "2"
+    },
+    {
+        "service_id": "70A2562",
+        "date": "20150101",
+        "exception_type": "2"
+    },
+    {
+        "service_id": "1210A2564",
+        "date": "20141225",
+        "exception_type": "2"
+    },
+    {
+        "service_id": "70A2562",
+        "date": "20141127",
+        "exception_type": "2"
+    },
+    {
+        "service_id": "71A2562",
+        "date": "20150101",
+        "exception_type": "1"
+    },
+    {
+        "service_id": "1083A2563",
+        "date": "20150101",
+        "exception_type": "1"
+    },
+    {
+        "service_id": "71A2562",
+        "date": "20150704",
+        "exception_type": "1"
+    },
+    {
+        "service_id": "1083A2563",
+        "date": "20150704",
+        "exception_type": "1"
+    },
+    {
+        "service_id": "70A2562",
+        "date": "20141225",
+        "exception_type": "2"
+    },
+    {
+        "service_id": "70A2562",
+        "date": "20150525",
+        "exception_type": "2"
+    },
+    {
+        "service_id": "1211A2235",
+        "date": "20150318",
+        "exception_type": "1"
+    },
+    {
+        "service_id": "1083A2563",
+        "date": "20150525",
+        "exception_type": "1"
+    },
+    {
+        "service_id": "1211A2235",
+        "date": "20150320",
+        "exception_type": "1"
+    },
+    {
+        "service_id": "70A2562",
+        "date": "20150704",
+        "exception_type": "2"
+    },
+    {
+        "service_id": "1210A2564",
+        "date": "20141127",
+        "exception_type": "2"
+    },
+    {
+        "service_id": "1080A2563",
+        "date": "20141225",
+        "exception_type": "2"
+    },
+    {
+        "service_id": "1210A2564",
+        "date": "20150101",
+        "exception_type": "1"
+    },
+    {
+        "service_id": "1080A2563",
+        "date": "20150704",
+        "exception_type": "2"
+    },
+    {
+        "service_id": "1209A2564",
+        "date": "20141225",
+        "exception_type": "2"
+    },
+    {
+        "service_id": "1211A2235",
+        "date": "20150317",
+        "exception_type": "1"
+    },
+    {
+        "service_id": "71A2562",
+        "date": "20141225",
+        "exception_type": "2"
+    },
+    {
+        "service_id": "71A2562",
+        "date": "20150525",
+        "exception_type": "2"
+    },
+    {
+        "service_id": "1083A2563",
+        "date": "20141225",
+        "exception_type": "2"
+    },
+    {
+        "service_id": "1211A2235",
+        "date": "20150119",
+        "exception_type": "2"
+    },
+    {
+        "service_id": "70A2562",
+        "date": "20150907",
+        "exception_type": "2"
+    },
+    {
+        "service_id": "71A2562",
+        "date": "20150907",
+        "exception_type": "1"
+    },
+    {
+        "service_id": "1083A2563",
+        "date": "20150907",
+        "exception_type": "1"
+    },
+    {
+        "service_id": "1080A2563",
+        "date": "20150907",
+        "exception_type": "2"
+    },
+    {
+        "service_id": "1211A2235",
+        "date": "20150316",
+        "exception_type": "1"
+    },
+    {
+        "service_id": "71A2562",
+        "date": "20141231",
+        "exception_type": "2"
+    }
+]

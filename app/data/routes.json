@@ -1,0 +1,92 @@
+[
+    {
+        "agency_id": "15",
+        "route_id": "69",
+        "route_short_name": "66",
+        "route_long_name": "Red",
+        "route_type": "3",
+        "route_url": "http://www.mountainline.az.gov/route_66.htm",
+        "route_color": "e01e10",
+        "route_text_color": "ffffff"
+    },
+    {
+        "agency_id": "15",
+        "route_id": "74",
+        "route_short_name": "7",
+        "route_long_name": "Purple",
+        "route_type": "3",
+        "route_url": "http://www.mountainline.az.gov/route_7.htm",
+        "route_color": "6b1490",
+        "route_text_color": "ffffff"
+    },
+    {
+        "agency_id": "15",
+        "route_id": "70",
+        "route_short_name": "2",
+        "route_long_name": "Blue",
+        "route_type": "3",
+        "route_url": "http://www.mountainline.az.gov/route_2.htm",
+        "route_color": "0015e4",
+        "route_text_color": "ffffff"
+    },
+    {
+        "agency_id": "15",
+        "route_id": "71",
+        "route_short_name": "3",
+        "route_long_name": "Green",
+        "route_type": "3",
+        "route_url": "http://www.mountainline.az.gov/route_3.htm",
+        "route_color": "367e16",
+        "route_text_color": "ffffff"
+    },
+    {
+        "agency_id": "15",
+        "route_id": "73",
+        "route_short_name": "5",
+        "route_long_name": "Orange",
+        "route_type": "3",
+        "route_url": "http://www.mountainline.az.gov/route_5.htm",
+        "route_color": "ff8000",
+        "route_text_color": "000000"
+    },
+    {
+        "agency_id": "15",
+        "route_id": "612",
+        "route_short_name": "10",
+        "route_long_name": "Mountain Link",
+        "route_type": "3",
+        "route_url": "http://www.mountainline.az.gov/route_10.htm",
+        "route_color": "800d14",
+        "route_text_color": "ffffff"
+    },
+    {
+        "agency_id": "15",
+        "route_id": "1370",
+        "route_short_name": "14",
+        "route_long_name": "Brown",
+        "route_type": "3",
+        "route_url": "",
+        "route_color": "B76432",
+        "route_text_color": "ffffff"
+    },
+    {
+        "agency_id": "15",
+        "route_id": "72",
+        "route_short_name": "4",
+        "route_long_name": "Gold",
+        "route_type": "3",
+        "route_url": "http://www.mountainline.az.gov/route_4.htm",
+        "route_color": "fbee2d",
+        "route_text_color": "000000"
+    },
+    {
+        "agency_id": "15",
+        "route_id": "1371",
+        "route_short_name": "10a",
+        "route_long_name": "Mountain Link",
+        "route_type": "3",
+        "route_url": "",
+        "route_color": "800d14",
+        "route_text_color": "ffffff"
+    }
+]
