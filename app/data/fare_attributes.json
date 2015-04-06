@@ -1,0 +1,11 @@
+[
+    {
+        "agency_id": "15",
+        "fare_id": "113",
+        "price": "1.25",
+        "currency_type": "USD",
+        "payment_method": "0",
+        "transfers": "0",
+        "transfer_duration": ""
+    }
+]

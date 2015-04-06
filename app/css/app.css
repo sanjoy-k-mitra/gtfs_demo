@@ -1,0 +1,10 @@
+/* app css stylesheet */
+html, body, .map-canvas{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+div.container, div.row, div.full-height{
+    height: 100%;
+}

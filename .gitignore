@@ -1,2 +1,8 @@
+logs/*
+!.gitkeep
+node_modules/
+tmp
 .idea
-libs
+.DS_Store
+angular-phonecat-snapshots
+bower_components/
