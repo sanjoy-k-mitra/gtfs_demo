@@ -6,15 +6,7 @@ app.controller('MapController', ['$scope', '$element', '$attrs', '$http', '$filt
         center: new google.maps.LatLng(35.1812076,-111.607959),
         zoom: 12
     };
-    $scope.markers = [];
-    var sizeX = 20,
-        sizeY = 20;
-    var markerIcon = {
-        url: 'img/stop.svg',
-        size: new google.maps.Size(sizeX, sizeY),
-        origin: new google.maps.Point(0, 0),
-        anchor: new google.maps.Point(sizeX/2, sizeY/2)
-    }
+
 
     $scope.initialize = function(){
         $scope.map = new google.maps.Map($($element).find('div.map-canvas')[0],
@@ -23,14 +15,8 @@ app.controller('MapController', ['$scope', '$element', '$attrs', '$http', '$filt
 
     $scope.initialize();
     $http.get('data/stops.json').success(function(stops){
-        angular.forEach(stops, function(stop, i){
-            var mark = new google.maps.Marker({
-                position: new google.maps.LatLng(stop.stop_lat, stop.stop_lon),
-                title: stop.stop_name,
-                icon: markerIcon
-            });
-            $scope.markers.push(mark);
-        })
+        $scope.stops = stops;
+        $scope.currentStops = [];
     });
     $http.get('data/routes.json').success(function(routes){
         $scope.routes = routes;
@@ -41,30 +27,64 @@ app.controller('MapController', ['$scope', '$element', '$attrs', '$http', '$filt
     $http.get('data/shapes.json').success(function(shapes){
         $scope.shapes = shapes;
     });
+    $http.get('data/stop_times.json').success(function(stopTimes){
+        $scope.stopTimes = stopTimes;
+    })
 
-    function drawShapes(shapes){
+    function drawShapes(){
+        if($scope.currentPath){
+            $scope.currentPath.setMap(null);
+        }
+        if($scope.currentStops.length > 0){
+            angular.forEach($scope.currentStops, function(marker){
+                marker.setMap(null);
+            })
+            $scope.currentStops = [];
+        }
+        var shapes = $filter('filter')($scope.shapes, {shape_id: $scope.currentTrip.shape_id}, true);
         var points = [];
         angular.forEach(shapes, function(shape){
             points.push(new google.maps.LatLng(shape.shape_pt_lat, shape.shape_pt_lon));
         });
-        var flightPath = new google.maps.Polyline({
+        $scope.currentPath = new google.maps.Polyline({
             path: points,
-            geodesic: true,
-            strokeColor: '#FF0000',
+            geodesic: false,
+            strokeColor: '#' + $scope.currentRoute.route_color,
             strokeOpacity: 1.0,
             strokeWeight: 2
         });
-        flightPath.setMap($scope.map);
+        $scope.currentPath.setMap($scope.map);
+
+
+        $scope.stopIcon = {
+            path: 'M10,0 C4.5,0 0,4.5 0,10 C0,15.5 4.5,20 10,20 C15.5,20 20,15.5 20,10 C20,4.5 15.5,0 10,0 L10,0 Z M10,18 C5.6,18 2,14.4 2,10 C2,5.6 5.6,2 10,2 C14.4,2 18,5.6 18,10 C18,14.4 14.4,18 10,18 L10,18 Z',
+            fillColor: '#' + $scope.currentRoute.route_color,
+            fillOpacity: 0.8,
+            scale: 1,
+            strokeColor: '#' + $scope.currentRoute.route_color,
+            strokeWeight: 5,
+            anchor: new google.maps.Point(10, 10)
+        }
+        var stopTimes = $filter('filter')($scope.stopTimes, {trip_id: $scope.currentTrip.trip_id}, true);
+        angular.forEach(stopTimes, function(stopTime){
+            var stop = $filter('filter')($scope.stops, {stop_id: stopTime.stop_id}, true)[0];
+            var mark = new google.maps.Marker({
+                position: new google.maps.LatLng(stop.stop_lat, stop.stop_lon),
+                title: stopTime.arrival_time,
+                map: $scope.map,
+                icon: $scope.stopIcon
+            });
+            $scope.currentStops.push(mark);
+
+        })
     }
 
     $scope.routeSelectionChanged = function(){
-        var trips = $filter('filter')($scope.trips, {route_id: $scope.currentRouteId}, true);
-        var shapes = [];
-        angular.forEach(trips, function(trip, i){
-            var ts = $filter('filter')($scope.shapes, {shape_id: trip.shape_id}, true);
-            shapes = shapes.concat(ts);
-        });
-        drawShapes(shapes);
+        $scope.currentRoute = $filter('filter')($scope.routes, {route_id: $scope.currentRouteId}, true)[0];
+    }
+    $scope.tripSelectionChanged = function(){
+        $scope.currentTrip = $filter('filter')($scope.trips, {trip_id: $scope.currentTripId}, true)[0];
+        drawShapes();
     }
 
 }])

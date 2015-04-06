@@ -8,7 +8,7 @@
         </div>
         <div class="input-group">
             <div class="input-group-addon">Select Trip :</div>
-            <select ng-model="currentTripId" class="form-control">
+            <select ng-model="currentTripId" class="form-control" ng-change="tripSelectionChanged()">
                 <option ng-repeat="trip in trips|filter:{route_id:currentRouteId}" value="{{trip.trip_id}}">{{trip.trip_id}}</option>
             </select>
         </div>
