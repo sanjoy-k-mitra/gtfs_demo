@@ -8,3 +8,7 @@ html, body, .map-canvas{
 div.container, div.row, div.full-height{
     height: 100%;
 }
+
+.glyphicon.glyphicon-remove{
+    cursor: pointer;
+}
